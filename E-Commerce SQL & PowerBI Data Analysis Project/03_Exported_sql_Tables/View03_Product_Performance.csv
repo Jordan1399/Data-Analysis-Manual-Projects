@@ -1,0 +1,79 @@
+"product_id";"name";"category";"brand";"Units_Sold";"Total_Revenue";"Review_Count";"Average_Rating"
+51;"webcam PRO";"Electronics";"TechBrand";111.0;33326.73;24;3.6667
+81;"TechBrand Monitor";"Accessories";"GENERIC";220.0;62536.25;45;3.8
+94;"TechBrand USB CABLE";"Accessories";"GENERIC";97.0;25595.7;16;3.0
+38;"ProTech desk lamp PRO";"Accessories";"GENERIC";258.0;67241.16;54;4.0
+29;"Keyboard";"Accessories";"GENERIC";515.0;131501.35;90;2.4
+93;"TechBrand Power Bank";"Accessories";"SmartDevice";189.0;45605.1;33;2.3333
+68;"Power Bank";"Accessories";"TechBrand";246.0;51786.63;36;3.6667
+76;"Screen Protector";"Electronics";"UltraElectronics";156.0;42259.38;30;2.3333
+65;"UltraElectronics laptop PRO";"Computers";"EliteGear";71.0;19529.79;13;4.0
+53;"GENERIC Webcam";"Accessories";"TechBrand";264.0;46504.84;48;3.75
+77;"Microphone";"Accessories";"SmartDevice";455.0;77570.8;75;3.0
+1;"EliteGear Keyboard";"Peripherals";"GENERIC";114.0;20533.59;21;2.0
+22;"KEYBOARD";"Peripherals";"SmartDevice";152.0;37681.8;32;3.25
+36;"SmartDevice Monitor";"Peripherals";"UltraElectronics";117.0;11271.0;17;3.0
+96;"Laptop";"Electronics";"UltraElectronics";96.0;18059.43;22;2.0
+6;"webcam PRO";"Accessories";"SmartDevice";360.0;96529.65;90;2.8
+78;"Laptop";"Peripherals";"SmartDevice";78.0;19391.85;14;4.0
+98;"ProTech Desk Lamp";"Peripherals";"ProTech";156.0;37746.14;26;3.5
+89;"EliteGear phone case PRO";"Peripherals";"EliteGear";177.0;46903.32;30;4.0
+9;"Microphone";"Computers";"GENERIC";46.0;9733.04;10;1.0
+75;"UltraElectronics Laptop";"Accessories";"EliteGear";240.0;64277.44;44;4.25
+99;"ProTech Headphones";"Peripherals";"UltraElectronics";324.0;94406.91;57;3.0
+100;"EliteGear Smartphone";"Computers";"TechBrand";168.0;42839.28;24;2.5
+80;"ProTech Mouse";"Accessories";"EliteGear";27.0;6860.48;7;4.0
+85;"TechBrand charger PRO";"Computers";"ProTech";384.0;75414.6;60;3.6667
+71;"TechBrand Phone Case";"Accessories";"UltraElectronics";192.0;58341.48;30;3.6667
+28;"EliteGear Phone Case";"Mobile";"TechBrand";48.0;8808.64;10;3.0
+25;"MONITOR";"Computers";"GENERIC";118.0;24249.35;17;5.0
+66;"Phone Case";"Mobile";"ProTech";87.0;11613.84;18;2.0
+4;"UltraElectronics Usb Cable";"Computers";"UltraElectronics";138.0;31807.71;30;3.6667
+7;"TechBrand Webcam";"Computers";"TechBrand";304.0;90650.32;52;1.5
+34;"EliteGear WEBCAM";"Peripherals";"EliteGear";172.0;42115.36;24;3.0
+41;"EliteGear Power Bank";"Computers";"GENERIC";321.0;101778.12;45;2.0
+60;"Phone Case";"Mobile";"GENERIC";178.0;43440.52;30;3.5
+14;"SmartDevice Usb Cable";"Accessories";"EliteGear";440.0;126873.8;65;2.3333
+86;"GENERIC PHONE CASE";"Peripherals";"GENERIC";280.0;52690.55;50;3.2
+33;"UltraElectronics HEADPHONES";"Mobile";"EliteGear";147.0;52470.66;21;2.6667
+74;"GENERIC SCREEN PROTECTOR";"Electronics";"ProTech";162.0;29087.62;26;5.0
+30;"GENERIC Smartphone";"Computers";"GENERIC";174.0;40252.98;38;3.0
+90;"EliteGear USB CABLE";"Computers";"EliteGear";372.0;89525.52;64;2.75
+52;"Headphones";"Mobile";"ProTech";84.0;23117.8;22;1.5
+2;"EliteGear Keyboard";"Accessories";"GENERIC";146.0;30229.58;30;1.0
+20;"SmartDevice webcam PRO";"Accessories";"SmartDevice";132.0;32594.3;24;3.0
+69;"Microphone";"Electronics";"SmartDevice";32.0;8621.91;8;5.0
+83;"SmartDevice Charger";"Accessories";"UltraElectronics";264.0;54390.0;54;2.2
+70;"microphone PRO";"Computers";"UltraElectronics";280.0;86866.0;50;2.8
+56;"SmartDevice screen protector PRO";"Peripherals";"SmartDevice";232.0;46522.4;44;2.25
+64;"UltraElectronics Phone Case";"Peripherals";"GENERIC";142.0;30177.22;26;4.0
+16;"EliteGear Mouse";"Accessories";"UltraElectronics";165.0;45035.25;39;4.3333
+24;"Monitor";"Peripherals";"TechBrand";276.0;25346.36;40;3.25
+88;"UltraElectronics TABLET";"Mobile";"ProTech";176.0;47160.94;30;3.5
+5;"Smartphone";"Mobile";"GENERIC";128.0;31703.58;24;3.0
+59;"Keyboard";"Accessories";"GENERIC";172.0;44839.72;28;2.5
+40;"Monitor";"Peripherals";"EliteGear";148.0;25382.12;24;2.75
+62;"Phone Case";"Accessories";"GENERIC";122.0;29504.54;22;4.5
+13;"Desk Lamp";"Mobile";"UltraElectronics";168.0;57915.92;32;3.25
+48;"GENERIC Screen Protector";"Computers";"UltraElectronics";368.0;85131.16;80;2.5
+12;"charger PRO";"Electronics";"TechBrand";124.0;47794.12;18;3.5
+45;"SmartDevice Smartphone";"Computers";"SmartDevice";87.0;6092.04;18;3.3333
+82;"UltraElectronics Microphone";"Accessories";"TechBrand";92.0;23994.52;22;3.0
+26;"TechBrand Mouse";"Peripherals";"GENERIC";110.0;33616.32;24;2.0
+44;"TechBrand Smartphone";"Electronics";"EliteGear";236.0;52960.44;44;2.0
+49;"UltraElectronics power bank PRO";"Electronics";"TechBrand";24.0;4684.35;6;1.0
+3;"UltraElectronics Keyboard";"Accessories";"SmartDevice";116.0;32721.92;20;3.5
+8;"Usb Cable";"Accessories";"TechBrand";26.0;8459.51;7;1.0
+57;"SmartDevice Keyboard";"Mobile";"UltraElectronics";116.0;25713.52;28;2.5
+23;"ProTech Keyboard";"Computers";"GENERIC";68.0;17038.66;12;5.0
+11;"GENERIC Phone Case";"Peripherals";"SmartDevice";159.0;40658.85;30;4.0
+10;"Phone Case";"Mobile";"EliteGear";69.0;21519.42;15;3.0
+39;"TechBrand Laptop";"Mobile";"SmartDevice";52.0;8042.98;10;5.0
+79;"ProTech phone case PRO";"Peripherals";"TechBrand";72.0;19581.73;12;2.0
+67;"UltraElectronics Tablet";"Mobile";"TechBrand";116.0;22963.62;24;4.5
+55;"Smartphone";"Electronics";"GENERIC";122.0;26437.04;20;4.0
+17;"SmartDevice Microphone";"Accessories";"SmartDevice";100.0;26513.79;17;3.0
+27;"Keyboard";"Computers";"GENERIC";66.0;13926.43;12;4.0
+97;"ProTech PHONE CASE";"Peripherals";"SmartDevice";100.0;24577.67;16;3.0
+50;"EliteGear Monitor";"Peripherals";"GENERIC";78.0;14013.44;14;2.0
+21;"Desk Lamp";"Electronics";"EliteGear";90.0;21581.4;17;1.0

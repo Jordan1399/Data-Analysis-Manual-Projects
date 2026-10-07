@@ -1,0 +1,101 @@
+product_id,product_name,category,brand,price,stock_quantity,description
+1,EliteGear Keyboard,Peripherals,GENERIC,1271.25,191,
+2,EliteGear Keyboard,Accessories,GENERIC,1441.38,495,
+3,UltraElectronics Keyboard,Accessories,SmartDevice,199.74,485,
+4,UltraElectronics Usb Cable,Computers,UltraElectronics,1405.65,121,
+5,Smartphone,,GENERIC,26.97,179,High quality smartphone
+6,webcam PRO,Accessories,SmartDevice,823.57,442,
+7,TechBrand Webcam,Computers,TechBrand,120.55,374,High quality microphone
+8,Usb Cable,,TechBrand,914.89,169,High quality headphones
+9,Microphone,Computers,GENERIC,83.95,78,High quality laptop
+10,Phone Case,Mobile,EliteGear,960.89,59,
+11,GENERIC Phone Case,Peripherals,SmartDevice,560.4,238,High quality power bank
+12,charger PRO,Electronics,TechBrand,626.83,31,
+13,Desk Lamp,Mobile,UltraElectronics,127.63,257,
+14,SmartDevice Usb Cable,Accessories,EliteGear,198.01,222,High quality power bank
+15,GENERIC Monitor,Electronics,TechBrand,495.92,447,High quality screen protector
+16,EliteGear Mouse,Accessories,UltraElectronics,1410.07,51,
+17,SmartDevice Microphone,,SmartDevice,266.57,348,
+18,MICROPHONE,,EliteGear,,190,High quality power bank
+19,GENERIC Power Bank,,TechBrand,457.71,164,High quality mouse
+20,SmartDevice webcam PRO,,SmartDevice,1233.31,159,
+21,Desk Lamp,Electronics,EliteGear,1257.09,470,
+22,KEYBOARD,Peripherals,SmartDevice,55.53,90,
+23,ProTech Keyboard,,GENERIC,-34.3290109919356,109,
+24,Monitor,Peripherals,TechBrand,1026.47,88,
+25,MONITOR,Computers,GENERIC,641.46,129,High quality monitor
+26,TechBrand Mouse,Peripherals,GENERIC,846.56,350,High quality smartphone
+27,Keyboard,Computers,GENERIC,455.19,460,High quality power bank
+28,EliteGear Phone Case,,TechBrand,396.54,18,
+29,Keyboard,Accessories,GENERIC,1360.71,432,High quality phone case
+30,GENERIC Smartphone,Computers,GENERIC,282.76,45,High quality headphones
+31,Charger,Computers,ProTech,185.48,,
+32,Webcam,Peripherals,TechBrand,454.54,,
+33,UltraElectronics HEADPHONES,Mobile,EliteGear,1170.61,90,
+34,EliteGear WEBCAM,Peripherals,EliteGear,141.17,206,
+35,ProTech desk lamp PRO,Electronics,ProTech,36.69,,
+36,SmartDevice Monitor,Peripherals,UltraElectronics,78.11,266,
+37,SmartDevice Tablet,Computers,EliteGear,1219.88,,High quality tablet
+38,ProTech desk lamp PRO,,GENERIC,964.07,304,
+39,TechBrand Laptop,Mobile,SmartDevice,716.84,322,High quality mouse
+40,Monitor,,EliteGear,772.25,401,High quality headphones
+41,EliteGear Power Bank,Computers,GENERIC,826.72,246,
+42,TechBrand PHONE CASE,Peripherals,GENERIC,1171.48,,
+43,Webcam,Computers,ProTech,270.3,,High quality charger
+44,TechBrand Smartphone,Electronics,EliteGear,542.71,449,
+45,SmartDevice Smartphone,Computers,SmartDevice,638.38,67,
+46,SmartDevice POWER BANK,Peripherals,SmartDevice,280.07,14,
+47,SmartDevice Microphone,Electronics,SmartDevice,985.9,,
+48,GENERIC Screen Protector,Computers,UltraElectronics,151.9,177,
+49,UltraElectronics power bank PRO,Electronics,TechBrand,1274.77,38,
+50,EliteGear Monitor,Peripherals,GENERIC,127.45,45,
+51,webcam PRO,Electronics,TechBrand,828.15,493,
+52,Headphones,Mobile,ProTech,342.14,317,
+53,GENERIC Webcam,Accessories,TechBrand,1447.0,359,High quality microphone
+54,TABLET,,GENERIC,301.91,110,
+55,Smartphone,Electronics,GENERIC,1160.49,489,
+56,SmartDevice screen protector PRO,Peripherals,SmartDevice,1366.16,417,High quality mouse
+57,SmartDevice Keyboard,Mobile,UltraElectronics,417.65,231,
+58,USB CABLE,,UltraElectronics,1292.44,323,High quality headphones
+59,Keyboard,Accessories,GENERIC,760.79,59,
+60,Phone Case,,GENERIC,1317.43,-14,High quality tablet
+61,EliteGear LAPTOP,Computers,GENERIC,1038.98,16,
+62,Phone Case,Accessories,GENERIC,771.26,354,
+63,Charger,Computers,UltraElectronics,312.59,226,
+64,UltraElectronics Phone Case,Peripherals,GENERIC,1446.78,349,High quality tablet
+65,UltraElectronics laptop PRO,Computers,EliteGear,18.4,20,High quality keyboard
+66,Phone Case,,ProTech,543.54,112,
+67,UltraElectronics Tablet,Mobile,TechBrand,998.36,486,
+68,Power Bank,,TechBrand,368.11,124,
+69,Microphone,Electronics,SmartDevice,46.8,263,
+70,microphone PRO,Computers,UltraElectronics,1457.72,320,High quality phone case
+71,TechBrand Phone Case,Accessories,UltraElectronics,1114.64,36,
+72,WEBCAM,Electronics,TechBrand,385.33,,
+73,Webcam,Mobile,ProTech,,328,
+74,GENERIC SCREEN PROTECTOR,Electronics,ProTech,1182.46,391,
+75,UltraElectronics Laptop,Accessories,EliteGear,1275.7,152,
+76,Screen Protector,Electronics,UltraElectronics,72.23,280,
+77,Microphone,Accessories,SmartDevice,222.25,129,High quality tablet
+78,Laptop,Peripherals,SmartDevice,1010.8,297,
+79,ProTech phone case PRO,Peripherals,TechBrand,681.45,299,High quality usb cable
+80,ProTech Mouse,Accessories,EliteGear,422.24,169,
+81,TechBrand Monitor,Accessories,GENERIC,1289.47,134,
+82,UltraElectronics Microphone,,TechBrand,1156.1,-34,
+83,SmartDevice Charger,Accessories,UltraElectronics,702.39,257,High quality headphones
+84,Usb Cable,Peripherals,EliteGear,1423.57,376,
+85,TechBrand charger PRO,Computers,ProTech,781.64,469,
+86,GENERIC PHONE CASE,Peripherals,GENERIC,402.33,334,
+87,SmartDevice Smartphone,Accessories,UltraElectronics,524.09,3,
+88,UltraElectronics TABLET,,ProTech,549.7,117,
+89,EliteGear phone case PRO,Peripherals,EliteGear,373.06,68,
+90,EliteGear USB CABLE,Computers,EliteGear,1454.16,372,
+91,webcam PRO,Mobile,SmartDevice,905.24,93,
+92,SmartDevice Phone Case,Peripherals,UltraElectronics,206.99,,
+93,TechBrand Power Bank,Accessories,SmartDevice,1317.84,47,
+94,TechBrand USB CABLE,,GENERIC,1313.48,480,
+95,Usb Cable,,UltraElectronics,720.93,145,
+96,Laptop,Electronics,UltraElectronics,568.78,209,
+97,ProTech PHONE CASE,Peripherals,SmartDevice,1487.77,282,
+98,ProTech Desk Lamp,Peripherals,ProTech,215.71,117,
+99,ProTech Headphones,Peripherals,UltraElectronics,249.49,-12,
+100,EliteGear Smartphone,Computers,TechBrand,1396.71,146,

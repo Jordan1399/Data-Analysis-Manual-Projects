@@ -1,0 +1,46 @@
+customer_id;name;state;Customer_Spend;Rating_Count;Popular_Category
+67;Customer 067;California;39883.36;6;Accessories
+267;Customer 267;Arizona;28216.68;6;Accessories
+71;Customer 071;California;25819.86;6;Accessories
+67;Customer 067;California;24862.88;6;Mobile
+142;Customer 142;Texas;21098.42;6;Peripherals
+172;Customer 172;California;19052.66;8;Peripherals
+255;Customer 255;Illinois;18070.11;9;Accessories
+24;Customer 024;New York;17848.84;4;Accessories
+4;Customer 004;California;17316.0;6;Accessories
+34;Customer 034;Texas;16959.44;4;Electronics
+71;Customer 071;California;16705.3;4;Mobile
+142;Customer 142;Texas;15572.3;6;Computers
+172;Customer 172;California;15427.06;4;Accessories
+32;Customer 032;Pennsylvania;14782.14;6;Accessories
+184;Customer 184;New York;14195.76;6;Computers
+71;Customer 071;California;13854.2;4;Computers
+279;Customer 279;Texas;13779.4;4;Electronics
+34;Customer 034;Texas;13133.1;4;Peripherals
+184;Customer 184;New York;12866.84;8;Accessories
+95;Customer 095;Arizona;12639.97;4;Accessories
+24;Customer 024;New York;12604.0;4;Mobile
+18;Customer 018;Texas;12379.44;4;Peripherals
+61;Customer 061;Texas;11977.88;6;Computers
+4;Customer 004;California;11544.0;4;Computers
+154;Customer 154;California;11528.55;6;Peripherals
+34;Customer 034;Texas;11509.04;4;Mobile
+34;Customer 034;Texas;10712.02;6;Computers
+34;Customer 034;Texas;10712.02;6;Accessories
+88;Customer 088;Pennsylvania;10208.31;4;Computers
+166;Customer 166;Pennsylvania;9903.88;4;Accessories
+59;Customer 059;Pennsylvania;9755.43;4;Mobile
+59;Customer 059;Pennsylvania;9755.43;4;Accessories
+61;Customer 061;Texas;9717.54;4;Peripherals
+172;Customer 172;California;9257.2;4;Computers
+142;Customer 142;Texas;8682.0;4;Electronics
+142;Customer 142;Texas;8682.0;4;Mobile
+154;Customer 154;California;8449.24;5;Accessories
+184;Customer 184;New York;8130.98;8;Peripherals
+176;Customer 176;California;7873.73;5;Accessories
+61;Customer 061;Texas;7694.78;4;Accessories
+142;Customer 142;Texas;5943.2;6;Accessories
+84;Customer 084;California;5225.0;4;Electronics
+299;Customer 299;California;3782.92;4;Peripherals
+38;Customer 038;New York;1876.98;6;Accessories
+56;Customer 056;California;1847.04;4;Computers
